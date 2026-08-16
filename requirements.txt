@@ -1,0 +1,26 @@
+# Application framework
+streamlit>=1.36
+
+# Agent orchestration and LLM providers
+langgraph
+google-genai
+groq
+
+# Data, validation, and semantic matching
+pydantic>=2.0
+pandas
+sentence-transformers
+
+# Documents and visualizations
+PyMuPDF
+plotly
+
+# Persistence and search integrations
+supabase
+tavily-python
+
+# Local configuration
+python-dotenv
+
+# Test runner
+pytest
