@@ -1,0 +1,5 @@
+# Transformers exposes many lazily imported optional vision modules. Streamlit's
+# development watcher introspects those modules and produces misleading torchvision
+# errors even though JobPilot uses only text embeddings.
+[server]
+fileWatcherType = "none"

@@ -1,0 +1,69 @@
+{
+  "provider": "linkedin",
+  "sort": "newest",
+  "searches": [
+    {
+      "country": "Germany",
+      "category": "Computer Science",
+      "keywords": "Computer Science",
+      "employment_types": ["Full-time"],
+      "date_posted": "24h"
+    },
+    {
+      "country": "Germany",
+      "category": "Computer Science",
+      "keywords": "Computer Science",
+      "employment_types": ["Internship", "Working Student"],
+      "date_posted": "24h"
+    },
+    {
+      "country": "Germany",
+      "category": "Data Science",
+      "keywords": "Data Science",
+      "employment_types": ["Full-time"],
+      "date_posted": "24h"
+    },
+    {
+      "country": "Germany",
+      "category": "Data Science",
+      "keywords": "Data Science",
+      "employment_types": ["Internship", "Working Student"],
+      "date_posted": "24h"
+    },
+    {
+      "country": "Germany",
+      "category": "Software Engineering",
+      "keywords": "Software Engineering",
+      "employment_types": ["Full-time"],
+      "date_posted": "24h"
+    },
+    {
+      "country": "Germany",
+      "category": "Software Engineering",
+      "keywords": "Software Engineering",
+      "employment_types": ["Internship", "Working Student"],
+      "date_posted": "24h"
+    },
+    {
+      "country": "Egypt",
+      "category": "Computer Science",
+      "keywords": "Computer Science",
+      "employment_types": ["Full-time"],
+      "date_posted": "24h"
+    },
+    {
+      "country": "Egypt",
+      "category": "Data Science",
+      "keywords": "Data Science",
+      "employment_types": ["Full-time"],
+      "date_posted": "24h"
+    },
+    {
+      "country": "Egypt",
+      "category": "Software Engineering",
+      "keywords": "Software Engineering",
+      "employment_types": ["Full-time"],
+      "date_posted": "24h"
+    }
+  ]
+}

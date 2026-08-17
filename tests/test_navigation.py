@@ -8,7 +8,7 @@ def test_all_expected_pages_are_registered() -> None:
     assert [page.title for page in PAGE_SPECS] == [
         "Dashboard",
         "My Profile",
-        "Extra Information",
+        "CV & Extra Information",
         "Job Preferences",
         "Find Jobs",
         "Analyze Job",

@@ -2,8 +2,10 @@
 
 import streamlit as st
 
+from components.app_theme import render_global_theme
 from components.navigation import build_navigation
 from utils.config import load_environment
+from utils.logging_config import configure_logging
 
 
 def main() -> None:
@@ -15,6 +17,8 @@ def main() -> None:
         initial_sidebar_state="expanded",
     )
     load_environment()
+    configure_logging()
+    render_global_theme()
 
     st.sidebar.title("JobPilot AI")
     st.sidebar.caption("Your personal job-search copilot")
